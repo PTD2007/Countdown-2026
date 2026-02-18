@@ -2,7 +2,7 @@ window.initFireworks = function () {
   const canvas = document.getElementById("fireCanvas");
   const ctx = canvas.getContext("2d");
 
-  const TEXTS = ["KEM", "2026","LOVE",];
+  const TEXTS = ["HAPPY", "2026","NEW YEAR",];
   const GRAVITY = 0.04;
 
   function resize() {
